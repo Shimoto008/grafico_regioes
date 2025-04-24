@@ -43,10 +43,12 @@ Este projeto realiza uma análise de vendas por região, apresentando gráficos 
 ## Exemplo de Saída
 
 ### Gráfico de Barras: Faturamento por Região
-![Gráfico de Barras](gráficos/faturamento_regiao.png)
+![faturamento_regiao](https://github.com/user-attachments/assets/583b99c4-1b4c-4f4f-a942-6ac21f701954)
+
 
 ### Gráfico de Pizza: Participação das Regiões no Faturamento Total
-![Gráfico de Pizza](gráficos/participacao_regiao.png)
+![participação_regiao](https://github.com/user-attachments/assets/2cceda23-3744-468a-8716-cf454f516dd5)
+
 
 ## Observações
 
