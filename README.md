@@ -9,8 +9,7 @@ Este projeto realiza uma análise de vendas por região, apresentando gráficos 
   - `regiao`: Nome da região
   - `quantidade`: Quantidade de produtos vendidos
   - `preco_unitario`: Preço unitário dos produtos
-- **`analise.py`**: Script responsável pela análise e geração dos gráficos.
-- **`gráficos/`**: Pasta contendo os gráficos gerados pelo script.
+- **`grafico_regiao.py`**: Script responsável pela análise e geração dos gráficos.
 
 ## Bibliotecas Utilizadas
 
@@ -31,14 +30,12 @@ Este projeto realiza uma análise de vendas por região, apresentando gráficos 
 
 4. Execute o script:
    ```bash
-   python analise.py
+   python grafico_regiao.py
    ```
 
    O script irá gerar:
    - Um gráfico de **barras** mostrando o faturamento por região.
    - Um gráfico de **pizza** mostrando a participação de cada região no faturamento total.
-
-5. Os gráficos gerados serão salvos na pasta `gráficos/` e também exibidos na tela.
 
 ## Exemplo de Saída
 
