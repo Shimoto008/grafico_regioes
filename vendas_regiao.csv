@@ -1,0 +1,11 @@
+regiao,produto,quantidade,preco_unitario
+Norte,Notebook,120,3500
+Sul,Celular,200,2500
+Sudeste,Tablet,150,2000
+Centro-Oeste,Notebook,180,3400
+Nordeste,Celular,170,2600
+Norte,Tablet,110,2100
+Sul,Notebook,190,3600
+Sudeste,Celular,210,2400
+Centro-Oeste,Tablet,160,2200
+Nordeste,Notebook,130,3300
